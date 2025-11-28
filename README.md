@@ -34,15 +34,17 @@ Direct Connection:
 <img width="619" height="314" alt="image" src="https://github.com/user-attachments/assets/adcbab25-2530-4251-99b8-3fd0829f298d" />
 
 #Tabulation:
-<img width="659" height="205" alt="image" src="https://github.com/user-attachments/assets/b9a577d8-4f3f-45a7-b9dc-0056a2fe904c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0a54af43-a14f-414c-bcd0-cba71d049de8" />
+
 
 #Circuit Diagram:
 Cross Connection:
 <img width="617" height="308" alt="image" src="https://github.com/user-attachments/assets/cb78f403-981f-4287-ae31-999310d871dc" />
 
 #Tabulation 2
-<img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/550d2e4e-5e95-4552-ab96-b7a2844349d4" />
+
 
 Result: 
-
+Thus the test is conducted successfully.
 
